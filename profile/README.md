@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-  <img width=150px height=150px src="../logo.png" alt="Project logo"></a>
+  <img width=150px height=150px src="https://raw.githubusercontent.com/lambda-language/.github/main/logo.png" alt="Project logo"></a>
 </p>
 
 <h2 align="center"><b>Lambda language</b></h2>
