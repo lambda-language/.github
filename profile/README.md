@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
+  <a href="https://github.com/lambda-language" rel="noopener">
   <img width=150px height=150px src="https://raw.githubusercontent.com/lambda-language/.github/main/logo.png" alt="Project logo"></a>
 </p>
 
